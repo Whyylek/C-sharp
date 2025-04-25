@@ -1,0 +1,10 @@
+На базі generic collections платформи .NET реалізувати узагальнену структуру даних Table<R, C, V>
+R - row key
+C - column key
+V - value
+Ця структура даних повинна забезпечувати доступ до збережених в ній значень по ключах R i C зі складністю O(1).
+Продемонструвати роботу з цією структурою даних, створивши об'єкт колекції Table<FootballTeam, Tournament, HashSet<int>>.
+FootballTeam(title, city, foundationYear)
+Tournament(title, international: boolean, foundationYear)
+HashSet<int> - містить роки, коли задана FootballTeam перемагала в турнірі Tournament.
+Також навести якийсь свій власний приклад застосування цієї структури даних.
