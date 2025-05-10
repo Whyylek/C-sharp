@@ -1,0 +1,14 @@
+C:\Універ\C#\С#KR_second\bin\Debug\net8.0\С#KR_second.exe
+C:\Універ\C#\С#KR_second\bin\Debug\net8.0\С#KR_second.deps.json
+C:\Універ\C#\С#KR_second\bin\Debug\net8.0\С#KR_second.runtimeconfig.json
+C:\Універ\C#\С#KR_second\bin\Debug\net8.0\С#KR_second.dll
+C:\Універ\C#\С#KR_second\bin\Debug\net8.0\С#KR_second.pdb
+C:\Універ\C#\С#KR_second\obj\Debug\net8.0\С#KR_second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Універ\C#\С#KR_second\obj\Debug\net8.0\С#KR_second.AssemblyInfoInputs.cache
+C:\Універ\C#\С#KR_second\obj\Debug\net8.0\С#KR_second.AssemblyInfo.cs
+C:\Універ\C#\С#KR_second\obj\Debug\net8.0\С#KR_second.csproj.CoreCompileInputs.cache
+C:\Універ\C#\С#KR_second\obj\Debug\net8.0\С#KR_second.dll
+C:\Універ\C#\С#KR_second\obj\Debug\net8.0\refint\С#KR_second.dll
+C:\Універ\C#\С#KR_second\obj\Debug\net8.0\С#KR_second.pdb
+C:\Універ\C#\С#KR_second\obj\Debug\net8.0\С#KR_second.genruntimeconfig.cache
+C:\Універ\C#\С#KR_second\obj\Debug\net8.0\ref\С#KR_second.dll
